@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: echo a string
-        run: echo "Get Actions"
+        run: echo "Got Actions"
   run-Shell-Command2:
     runs-on: ubuntu-latest
     steps:
